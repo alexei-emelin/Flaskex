@@ -2,7 +2,7 @@ version: '3'
 
 services:
     flaskex:
-      image: alexeiemelin/flask:0.0.1
+      image: alexeiemelin/flask:0.0.2
       #задаем имя контейнеру
       container_name: flaskex
       #транслируем порт
